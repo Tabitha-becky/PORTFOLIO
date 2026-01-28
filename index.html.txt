@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title> Tabitha Becky Nyongesa | IT Specialist</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav class="navbar">
+  <div class="container">
+    <div class="logo"> Tabitha Becky Nyongesa</div>
+    <div class="nav-links">
+      <a href="#home">Home</a>
+      <a href="#about">About</a>
+      <a href="#experience">Experience</a>
+      <a href="#projects">Projects</a>
+      <a href="#contact">Contact</a>
+    </div>
+  </div>
+</nav>
+
+<section id="home" class="hero">
+  <div class="container">
+    <h1>Hi, I'm Tabitha Becky Nyongesa</h1>
+    <p class="subtitle">IT Specialist • Telecommunications • Systems & Automation</p>
+    <p class="description">
+      Passionate about building reliable, scalable tech solutions for organizations 
+      and small businesses. Specializing in system automation, POS integration, 
+      and business process improvement.
+    </p>
+    <div class="buttons">
+      <a href="#experience" class="btn primary">View Experience</a>
+      <a href="#contact" class="btn secondary">Hire Me</a>
+    </div>
+  </div>
+</section>
+
+<section id="about" class="section">
+  <div class="container">
+    <h2>About Me</h2>
+    <div class="about-content">
+      <div class="about-text">
+        <p>
+          IT Specialist with a strong background in telecommunications and hands-on 
+          experience in system automation, POS integration, website development, 
+          and business process improvement.
+        </p>
+        <p>
+          I thrive on solving complex technical challenges and creating efficient 
+          systems that empower businesses to operate smoothly even during disruptions. 
+          From implementing offline sales mechanisms to optimizing entire workflows, 
+          I bring both technical expertise and strategic thinking.
+        </p>
+      </div>
+      <div class="skills">
+        <h3>Technical Skills</h3>
+        <div class="skill-tags">
+          <span class="tag">HTML</span>
+          <span class="tag">CSS</span>
+          <span class="tag">JavaScript</span>
+          <span class="tag">WordPress</span>
+          <span class="tag">POS Systems</span>
+          <span class="tag">APIs</span>
+          <span class="tag">SQL</span>
+        </div>
+
+        <h3>Systems & Automation</h3>
+        <div class="skill-tags">
+          <span class="tag">Automation</span>
+          <span class="tag">Payroll Systems</span>
+          <span class="tag">Inventory Management</span>
+          <span class="tag">SOP Development</span>
+        </div>
+
+        <h3>Networking & Telecom</h3>
+        <div class="skill-tags">
+          <span class="tag">TCP/IP</span>
+          <span class="tag">LAN/WAN</span>
+          <span class="tag">SCADA</span>
+          <span class="tag">Troubleshooting</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="experience" class="section dark">
+  <div class="container">
+    <h2>Professional Experience</h2>
+    
+    <div class="job">
+      <div class="job-header">
+        <div>
+          <h3>IT Specialist</h3>
+          <p class="company"> Ongwediva Concrete Products Company</p>
+        </div>
+        <p class="period">2024 – Present</p>
+      </div>
+      <ul>
+        <li>Automated payroll and record-keeping processes, reducing manual errors by 40%</li>
+        <li>Improved POS workflows including offline sales handling and VAT integration</li>
+        <li>Maintained and optimized company website, increasing load speed by 60%</li>
+        <li>Developed SOPs for system downtime and business continuity</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-header">
+        <div>
+          <h3>Industrial Attachment</h3>
+          <p class="company">Kenya Power and Lighting Company</p>
+        </div>
+        <p class="period">SCADA & Systems Support</p>
+      </div>
+      <ul>
+        <li>Worked with SCADA systems and real-time monitoring tools</li>
+        <li>Assisted in system troubleshooting and incident reporting</li>
+        <li>Supported maintenance of critical infrastructure systems</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section id="projects" class="section">
+  <div class="container">
+    <h2>Featured Projects</h2>
+    <div class="projects-grid">
+      
+      <div class="project-card">
+        <div class="project-image">
+          <img src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&h=400&fit=crop" alt="POS System">
+        </div>
+        <h3>POS System & VAT Integration</h3>
+        <p>
+          Designed and implemented comprehensive POS workflow with offline sales handling, 
+          VAT calculations, and automated reconciliation reports.
+        </p>
+        <div class="tech-tags">
+          <span>POS Software</span>
+          <span>APIs</span>
+          <span>Excel</span>
+          <span>SQL</span>
+        </div>
+      </div>
+
+      <div class="project-card">
+        <div class="project-image">
+          <img src="https://images.unsplash.com/photo-1547658719-da2b51169166?w=600&h=400&fit=crop" alt="Website">
+        </div>
+        <h3>Business Websites (WordPress)</h3>
+        <p>
+          Built and optimized multiple business websites with improved UX, 
+          SEO optimization, and lead generation systems. Achieved 95+ PageSpeed scores.
+        </p>
+        <div class="tech-tags">
+          <span>WordPress</span>
+          <span>HTML</span>
+          <span>CSS</span>
+          <span>JavaScript</span>
+        </div>
+      </div>
+
+      <div class="project-card">
+        <div class="project-image">
+          <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop" alt="Automation">
+        </div>
+        <h3>Automation & SOP Development</h3>
+        <p>
+          Created comprehensive standard operating procedures for payroll, 
+          procurement, and inventory management. Automated repetitive tasks saving 15+ hours weekly.
+        </p>
+        <div class="tech-tags">
+          <span>Process Automation</span>
+          <span>Documentation</span>
+          <span>Workflow Design</span>
+        </div>
+      </div>
+
+      <div class="project-card">
+        <div class="project-image">
+          <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&h=400&fit=crop" alt="System Recovery">
+        </div>
+        <h3>System Downtime Recovery</h3>
+        <p>
+          Developed and implemented business continuity plans for power outages, 
+          internet failures, and system crashes.
+        </p>
+        <div class="tech-tags">
+          <span>Disaster Recovery</span>
+          <span>Manual Systems</span>
+          <span>Reconciliation</span>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<section class="section dark">
+  <div class="container">
+    <h2>Freelance Services</h2>
+    <p class="center-text">Available for consulting and project-based work</p>
+    <div class="services-grid">
+      <div class="service-card">
+        <h3>Website Design & Optimization</h3>
+        <p>Custom WordPress sites, SEO, and performance tuning</p>
+      </div>
+      <div class="service-card">
+        <h3>POS & Business System Setup</h3>
+        <p>Implementation, integration, and staff training</p>
+      </div>
+      <div class="service-card">
+        <h3>Automation & SOP Documentation</h3>
+        <p>Process improvement and workflow automation</p>
+      </div>
+      <div class="service-card">
+        <h3>Technical Support & IT Consulting</h3>
+        <p>Troubleshooting, maintenance, and strategic planning</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <h2>Education & Certifications</h2>
+    <div class="education-grid">
+      <div class="edu-card">
+        <h3>Education</h3>
+        <p class="highlight">Bachelor's Degree in Telecommunications</p>
+      </div>
+      <div class="edu-card">
+        <h3>Certifications</h3>
+        <ul>
+          <li>ALX Africa Certification</li>
+          <li>Cybersecurity Training (In Progress)</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="cta-section">
+  <div class="container">
+    <h2>Download My Resume</h2>
+    <p>Get a detailed overview of my skills and experience</p>
+    <a href="Becky_CV.pdf" download class="btn primary">Download CV (PDF)</a>
+  </div>
+</section>
+
+<section id="contact" class="section dark">
+  <div class="container">
+    <h2>Get In Touch</h2>
+    <p class="center-text">
+      I'm always open to new opportunities, collaborations, and interesting projects. 
+      Whether you're looking for a full-time IT specialist or need freelance support, 
+      feel free to reach out!
+    </p>
+    <div class="contact-buttons">
+      <a href="tabithabecky026@gmail.com" class="btn primary">Email Me</a>
+      <a href="www.linkedin.com/in/tabitha-nyongesa-27360b1a2" target="_blank" class="btn secondary">LinkedIn</a>
+      <a href="https://github.com/Tabitha-becky" target="_blank" class="btn secondary">GitHub</a>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <p>© 2026 Becky Nyongesa. Built with HTML & CSS. Deployed on Netlify.</p>
+  </div>
+</footer>
+
+</body>
+</html>
